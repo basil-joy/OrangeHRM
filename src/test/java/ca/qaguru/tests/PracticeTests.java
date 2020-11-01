@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-public class LoginPageTests {
+public class PracticeTests {
     WebDriver driver;
     public static final String BASE_URL = "https://opensource-demo.orangehrmlive.com";
     @BeforeSuite
